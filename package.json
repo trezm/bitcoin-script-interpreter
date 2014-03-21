@@ -1,0 +1,17 @@
+{
+	"author":"Pete Mertz",
+	"name":"bitcoin-script-interpreter",
+	"description":"A node module to provide a functioning Script interpreter for the Bitcoin protocol",
+	"version":"0.0.15",
+	"repository": {
+		"url":""	      
+	},
+	"main":"./lib/script_interpreter.js",
+	"bin": {},
+	"dependencies":{},
+	"devDependencies":{},
+	"optionalDependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
